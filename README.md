@@ -12,3 +12,5 @@ This side-scroller game follows a man in overalls as he hurdles over fences in a
 It was my first real experience with animations (jumping, running etc...) and the inclusion of sound effects in unity.
 
 The scripts were written in C# and the game was developed using Unity 2020.3
+
+The game can be played using the "My Project.exe" file found under the "My Project" folder in the repository.
